@@ -7,74 +7,120 @@ ul  {
     text-align: center;
     position: relative;
     display: inline-block;
-    }
+}
 
 li {
-   float:left;
-   }
+    float:left;
+}
 
 li a {
-     display: block;
-     color: white;
-     text-align: center;
-     padding: 14px 16px;
-     text-decoration: none;
-     }
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
 
 li a:hover {
-           background-color: black;
-           }
+    background-color: black;
+}
 
 
 #heading {
-         color: ghostwhite;
-         text-align: center;
-         font-size: 100px;
-         background-color: grey
-         }
+    color: ghostwhite;
+    text-align: center;
+    font-size: 100px;
+    background-color: grey
+}
 
 #printing {
-          color: ghostwhite;
-          display: block;
-          background-color: brown;
-          height: 2000px;
-          width: 90%;
-          margin-left: auto;
-          margin-right: auto;
-          }
+    color: ghostwhite;
+    display: block;
+    background-color: brown;
+    height: 1500px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
 
-h1.spolls {
-          background-color: grey;
-          color: ghostwhite;
-          }
+#what {
+    float: left;
+    background-color: darkgray;
+    height: 1000px;
+    width: 50%;
+    font-size: 35px;
+}
 
-h3.type {
-        background-color: grey;
-        color: ghostwhite;
-        }
+#spools {
+    
+}
+
+#nylon {
+    
+}
+
+#ABS {
+    
+}
+
+#Resin {
+    
+}
+
+#steel {
+    
+}
+
+#GS {
+    
+}
+
+#titanium {
+    
+}
+
+#titanium {
+    
+}
+
+#ceramic {
+    
+}
+
+#gypsum {
+    
+}
+
+#description {
+	
+}
+
+#info {
+    
+}
+
+
+
+#how {
+    float: right;
+    background-color: darkgray;
+    height: 1000px;
+    width: 50%
+}
+
+#how2 {
+    
+}
 
 
 iframe {
-       height: 300px;
-       width: 500px;
-       }
+    height: 300px;
+    width: 500px;
+}
 
-#what {
-      float: left;
-      background-color: darkgray;
-      height: 750px;
-      width: 50%;
-            }
-
-#how {
-     float: right;
-     background-color: darkgray;
-     height: 750px;
-     width: 50%
-     }
 
 iframe.example {
     height: 300px;
     width: 500px;
-    
+
 }

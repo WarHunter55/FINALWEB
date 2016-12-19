@@ -1,3 +1,8 @@
+body {
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ZJijYq-JhdBL6PoHo-eOEgW09rJMP8MclafcdpquZPrJFKwhBA);
+    background-size: cover;
+}
+
 ul  {
     list-style-type: none;
     margin: 0;
@@ -17,10 +22,36 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 44px 46px;
     text-decoration: none;
+    font-size: 50px;
 }
 
 li a:hover {
     background-color: black;
 }
+
+#heading {
+    display: block;
+    height: 100px;
+    width: auto;
+    font-size: 100px;
+    text-align: center;
+    color: black;
+}
+
+
+#about {
+    display: block;
+    height: 500px;
+    width: auto;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+#pictures {
+text-align: center;
+}
+
+

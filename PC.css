@@ -29,26 +29,44 @@ li a:hover {
 #heading {
     color: ghostwhite;
     text-align: center;
-    font-size: 100px;
-    background-color: grey
-        
+    font-size: 100px;        
 }
 
 #pros {
+    height: 500px;
+    width: 48%;
     Color:Red;
     float: left;
     margin-left: auto;
     margin-right: auto;
+    font-size: 60px;
+    border: 5px;
+     border-color:black;
 }
 
 #cons {
+    height: 500px;
+    width: 48%;
 	color: Red;
     float: right;
-    margin-left: auto;
+    margin-left: 20;
     margin-right: auto;
+    font-size: 60px;
+    border: 5px;
+    border-color:black;
 }
 
 body {
     background-size: cover;
-    background-image: url(http://www.clipartkid.com/images/339/transparent-grunge-frame-by-theartist100-on-deviantart-GGv05F-clipart.png);  
+    background-image: url(http://git.mate-desktop.org/mate-backgrounds/plain/desktop/Stripes.png?id=mate-backgrounds-1.9.0);  
+}
+
+
+#example {
+    text-align:center;
+    font-size: 45px;
+}
+
+#explain {
+    font-size: 40px;
 }

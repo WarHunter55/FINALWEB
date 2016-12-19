@@ -36,8 +36,8 @@ li a:hover {
 #printing {
     color: ghostwhite;
     display: block;
-    background-color: brown;
-    height: 1500px;
+    background-color: red;
+    height: 2750px;
     width: 90%;
     margin-left: auto;
     margin-right: auto;
@@ -45,58 +45,66 @@ li a:hover {
 
 #what {
     float: left;
-    background-color: darkgray;
+    background-color: red;
     height: 1000px;
     width: 50%;
-    font-size: 35px;
+    font-size: 40px;
 }
 
 #spools {
-    
+    font-display: block;
+    font-size: 30px;
 }
 
 #nylon {
-    
+    font-display: block;
+    font-size: 30px;
 }
 
 #ABS {
-    
+    font-display: block;
+    font-size: 30px;
 }
 
 #Resin {
-    
+    font-display: block;
+    font-size: 30px;
 }
 
 #steel {
-    
+    font-display: block;
+    font-size: 30px;
 }
 
 #GS {
-    
+    font-display: block;
+    font-size: 30px;
 }
 
 #titanium {
-    
+    font-display: block;
+    font-size: 30px;
 }
 
 #titanium {
-    
+    font-display: block;
+    font-size: 30px;
 }
 
 #ceramic {
-    
+    font-display: block;
+    font-size: 30px;
 }
 
 #gypsum {
-    
+    font-display: block;
+    font-size: 30px;
 }
 
-#description {
-	
-}
 
 #info {
-    
+    float: left;
+    font-size: 20px;
 }
 
 
